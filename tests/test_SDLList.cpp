@@ -1,5 +1,6 @@
-#define private public
 #include <gtest/gtest.h>
+
+#define private public
 #include "../code/SDLList.h"
 
 using namespace std;
