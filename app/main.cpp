@@ -110,7 +110,7 @@ void RunLargeSimulation(){
     SongCatalog MANYSONGS;
     SDLList MOREFAVORITES(large_playlist_size);
     MOREFAVORITES.SetCatalog(&MANYSONGS); // Link Favorites Playlist to Song Catalog. 
-    FillSmallSongCatalog(&MANYSONGS); // Add "songs" to Catalog, for simulation purposes. 
+    FillLargeSongCatalog(&MANYSONGS); // Add "songs" to Catalog, for simulation purposes. 
     cout << "Setup complete." << endl; cout << endl;
 
     cout << "Simulating playing a bunch of songs from our playlist, which get added to playlist as we go..." << endl;
