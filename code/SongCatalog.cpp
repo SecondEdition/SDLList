@@ -1,5 +1,6 @@
 #include "SongCatalog.h"
 #include <iostream>
+#include <memory>
 
 using namespace std;
 
