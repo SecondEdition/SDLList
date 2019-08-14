@@ -35,7 +35,7 @@ test_LinkedList.cpp : Tests the DoublyLinkedSortedList file by building class ex
 ## HOW TO COMPILE
 Either download the directory or clone it from Github. I built code on my Mac but also tested on Jupyterhub successfuly.
 ```console
-your_username:~$ git clone https://github.com/Colorado-CompSci-Ugrad/LinkedList.git
+your_username:~$ git clone https://github.com/SecondEdition/SDLList.git
 ```
 Compiling directions are identical to the ones we had for class when compiling for linux. Change directory into the /build 
 folder [cd build], invoke Cmake, and then type "make" into your console in order to compile.
