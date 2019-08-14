@@ -9,6 +9,7 @@ using namespace std;
 #include <iostream>
 #include <string>
 #include <math.h>
+#include <memory>
 
 using namespace std;
 
