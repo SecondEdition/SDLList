@@ -2,6 +2,7 @@
 #include <string>
 #include <cstdlib>
 #include <fstream>
+#include <memory>
 #include "../code/SDLList.h"
 
 using namespace std;
