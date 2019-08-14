@@ -9,9 +9,7 @@ Project has following folder tree
 ├── code  
 │   ├── SDDList.cpp  
 │   ├── SDDList.h
-
 │   ├── SongCatalog.cpp
-
 │   └── SongCatalog.h  
 ├── input
 │   ├── songs_small.txt
