@@ -3,8 +3,6 @@
 #define private public
 #include "../code/SDLList.h"
 
-using namespace std;
-
 #include <fstream>
 #include <iostream>
 #include <string>
