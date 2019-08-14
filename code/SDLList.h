@@ -2,6 +2,7 @@
 #define SDLLIST_H_
 
 #include <fstream>
+#include <memory>
 #include "SongCatalog.h"
 
 using namespace std;
