@@ -1,0 +1,6 @@
+# .gitignore file 
+###################
+
+# this empty directory is for our makefiles
+
+!.gitignore
